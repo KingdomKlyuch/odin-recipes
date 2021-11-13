@@ -1,1 +1,3 @@
-# odin-recipes
+# odin-recipe
+
+Greetings, welcome to the origin of my experience in the Odin project and my journey to becoming a front end web developer. In my time here at the Odin project I am going to develop the fundamental skills of: HTML, CSS and Javascript on a level that will allow me to build off of them with other acquired languages skills. With time I plan to master these fundamentals. For the moment I am looking forward to the knowledge that will be unlocked with this project and the opportunity to share this with you in the future. Shall we get started?
