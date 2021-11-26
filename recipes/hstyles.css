@@ -1,0 +1,49 @@
+/* styles.css */
+
+.title {
+text-align: center;
+font-size: 70px;
+}
+
+.title2 {
+    text-align: center;
+    font-size: 45px;
+    font-family: cursive, 'Times New Roman', Times, serif
+}
+
+.detail {
+font-family: 'Times New Roman', Times, serif;
+font-size: 35px;
+background-color: darksalmon;
+color: darkslategray;
+}
+
+.c1 {
+    text-align: center;
+    font-size: 45px;
+    font-family: cursive, 'Times New Roman', Times, serif
+
+}
+
+.ingredients {
+font-family: 'Times New Roman', Times, serif;
+font-size: 20px;
+background-color: papayawhip;
+color: darkred;
+
+}
+
+.title3 {
+text-align: center;
+font-size: 45px;
+font-family: cursive, 'Times New Roman', Times, serif
+}
+
+.instructions {
+font-family: 'Times New Roman', Times, serif;
+font-size: 20px;
+color:rgb(47, 66, 7);
+background-color: rgb(241, 238, 201);
+
+}
+
